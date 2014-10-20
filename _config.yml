@@ -1,6 +1,6 @@
-name: Plstats.com blog
-description: Blog about how we are trying another approach on football data.
-meta_description: "Plstats.com blog page. "
+name: PLStats.com blog
+description: Blog about how we are trying another approach on football data
+meta_description: "PLStats.com blog page."
 
 markdown: redcarpet
 highlighter: pygments

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First steps of the journey"
+title:  "Why we are doing this"
 date:   2014-10-20 17:23:00
 categories: Stats football insight
 ---

@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-This is where you could put your "About me" page.
+Programmer who likes football and stats even more. Builing this site to scratch my own itch and hopefully others.
