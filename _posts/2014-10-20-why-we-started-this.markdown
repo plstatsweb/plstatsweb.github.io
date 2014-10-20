@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2014-20-10 17:23:00
+date:   2014-10-20 17:23:00
 categories: Stats football insight
 ---
 
