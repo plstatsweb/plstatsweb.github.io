@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First steps of the journey"
 date:   2014-10-20 17:23:00
 categories: Stats football insight
 ---
