@@ -9,9 +9,9 @@ This sunday we have a classic derby, [Manchester City][city-page] play [Manchest
 In the other fixutre today we have [Aston Villa][villa-page] hosting [Tottenham Hotspurs][spurs-page]. Spurs have only 1 win in their last 7 games in the EPL and have [8 points less][spurs-sametime] compared to this time last season. But Villa cant score and cant keep a clean sheet. Since winning [Liverpool][lfc-page] on the 13-th of september they have lost 5 games in a row without scoring and always 
 conceding 2 or more goals. 
 
-[city-page]: http://plstats.com/#/Team/Manchester City
-[united-page]: http://plstats.com/#/Team/Manchester United
-[villa-page]: http://plstats.com/#/Team/Aston Villa
-[spurs-sametime]: http://plstats.com/#/SameTimeLastSeason/Tottenham Hotspur
-[spurs-page]: http://plstats.com/#/Team/Tottenham Hotspurs
+[city-page]: http://plstats.com/#/Team/Manchester%20City
+[united-page]: http://plstats.com/#/Team/Manchester%20United
+[villa-page]: http://plstats.com/#/Team/Aston%20Villa
+[spurs-sametime]: http://plstats.com/#/SameTimeLastSeason/Tottenham%20Hotspur
+[spurs-page]: http://plstats.com/#/Team/Tottenham%20Hotspurs
 [lfc-page]: http://plstats.com/#/Team/Liverpool
