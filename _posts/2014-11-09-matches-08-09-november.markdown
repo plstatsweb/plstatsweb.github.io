@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Predictable Results or what"
+title:  "Predictable Results or What"
 date:   2014-11-09 10:22:00
 categories: Stats football review
 ---
